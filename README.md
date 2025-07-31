@@ -3,7 +3,6 @@ This Project sets up a custom rule in Wdinows Firewall that Blocks all outgoing 
 
 Steps to Create This Rule:        
     1)Open Firewall Settings: oepen the run menu and type *wf.msc*   
-    
     2)Create a New OutBound Rule: 
     
             i.Select *outbound rule* click *new rule*   
